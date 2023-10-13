@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: practice.consumingrestapi.ConsumingRestApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.87 s - in practice.consumingrestapi.ConsumingRestApiApplicationTests
